@@ -22,7 +22,7 @@ public class Integrador extends Application {
     @Override
     public void start(Stage stage) throws Exception {
 
-        stage.setTitle("Ejemplo Integrador");
+        stage.setTitle("Ejemplo Integrador: ");
 
         TextField texto = new TextField();
         texto.setPromptText("Ingrese el texto deseado");
