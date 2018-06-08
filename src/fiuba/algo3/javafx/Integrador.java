@@ -31,7 +31,7 @@ public class Integrador extends Application {
         etiqueta.setText(texto.getText());
 
         Button botonEnviar = new Button();
-        botonEnviar.setText("Enviar");
+        botonEnviar.setText("Enviar!");
 
         Button botonLimpiar = new Button();
         botonLimpiar.setText("Limpiar cuadro texto");
