@@ -25,7 +25,7 @@ public class Integrador extends Application {
         stage.setTitle("Ejemplo Integrador: ");
 
         TextField texto = new TextField();
-        texto.setPromptText("Ingrese el texto deseado");
+        texto.setPromptText("Ingrese el texto deseado...");
 
         Label etiqueta = new Label();
         etiqueta.setText(texto.getText());
