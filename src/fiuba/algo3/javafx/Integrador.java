@@ -34,7 +34,7 @@ public class Integrador extends Application {
         botonEnviar.setText("Enviar!");
 
         Button botonLimpiar = new Button();
-        botonLimpiar.setText("Limpiar cuadro texto");
+        botonLimpiar.setText("Limpiar cuadro texto ahora");
 
         HBox contenedorHorizontal = new HBox(botonEnviar, botonLimpiar);
         contenedorHorizontal.setSpacing(10);
