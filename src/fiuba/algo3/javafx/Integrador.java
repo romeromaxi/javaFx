@@ -40,7 +40,7 @@ public class Integrador extends Application {
         contenedorHorizontal.setSpacing(10);
 
         VBox contenedorPrincipal = new VBox(texto, contenedorHorizontal, etiqueta);
-        contenedorPrincipal.setSpacing(10);
+        contenedorPrincipal.setSpacing(15);
         contenedorPrincipal.setPadding(new Insets(20));
 
         BotonLimpiarEventHandler botonLimpiarEventHandler = new BotonLimpiarEventHandler(texto);
